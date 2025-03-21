@@ -16,7 +16,7 @@ const initialFrames = [
     borderSize: 30,
     autoplayMode: "all",
     isHovered: false,
-    url: "https://youtu.be/XHJUNYVGd84", // 點擊後要開啟的新頁面
+    url: "newpage1", // 點擊後要開啟的新頁面
   },
   {
     id: 2,
